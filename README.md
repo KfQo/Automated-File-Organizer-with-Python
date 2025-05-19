@@ -18,4 +18,4 @@ This is a simple Python script that automates the process of organizing files in
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/KfQo/auto-file-organizer.git
+   git clone https://github.com/KfQo/https://github.com/KfQo/Automated-File-Organizer-with-Python.git
