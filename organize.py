@@ -1,18 +1,17 @@
----
 
-### 🐍 Python Script (`organize.py`)
-```python
 import os
 import shutil
+
 # Update this path to the folder you want to organize
-folder_path =  r'C:/Users/YourName/Downloads'
+folder_path = r'C:/Users/YourName/Downloads'
+
 # File type categories
 file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
-    "Documents": [".pdf", ".docx", ".txt", ".ppt", ".pptx", ".xls", ".xlsx"],  # Added PPT and Excel
+    "Documents": [".pdf", ".docx", ".txt", ".ppt", ".pptx", ".xls", ".xlsx"],  
     "Videos": [".mp4", ".mkv", ".avi"],
     "Compressed": [".zip", ".rar"],
-    "Scripts": [".py", ".js", ".sh"],
+    "Scripts": [".py", ".js", ".sh", ".java", ".c", ".cpp", ".html", ".css", ".php", ".rb"],  
     "Applications": [".exe", ".msi"],
     "Others": []  # Category for any other files
 }
