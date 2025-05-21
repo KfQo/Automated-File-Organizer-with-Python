@@ -1,13 +1,12 @@
 ---
 
 ### 🐍 Python Script (`organize.py`)
-
 ```python
 import os
 import shutil
 
 # Update this path to the folder you want to organize
-folder_path = "C:/Users/YourName/Downloads"
+folder_path = r'C:/Users/YourName/Downloads'
 
 # File type categories
 file_types = {
