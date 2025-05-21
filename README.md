@@ -4,14 +4,16 @@ This is a simple Python script that automates the process of organizing files in
 
 ## 📌 Features
 
-- Automatically detects file types
-- Sorts files into categorized folders:
-  - Images
-  - Documents
-  - Videos
-  - Compressed files
-  - Scripts
-- Easily customizable
+Automatically detects file types
+Sorts files into categorized folders:
+Images (jpg , ,jpeg , png , etc...)
+Documents (including PPT and Excel files)
+Videos (mp4 , mkv , avi )
+Compressed files (rar , zip , etc...)
+Scripts (py, c , java , etc..)
+Applications (e.g., .exe, .msi)
+Others (for any unclassified files)
+Easily customizable
 
 ## 🚀 How to Use
 
